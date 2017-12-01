@@ -10,6 +10,6 @@ Camera Effects
 
 This is my camera effects project
 
-![picture_title](picture filename?raw=true "Optional Title")
+![Johna Byrum](https://github.com/byrumjohna12/byrumjohna12.github.io/blob/master/Johna%20Byrum.PNG?raw=true "Optional Title")
 
 ***
